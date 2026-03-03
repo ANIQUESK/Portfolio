@@ -458,7 +458,7 @@ function App() {
             <a href="mailto:shaikhanique07@gmail.com" className="btn-primary" style={{display: 'flex', alignItems: 'center', gap: '10px'}}>
               <Mail size={20} /> Email Me
             </a>
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="btn-primary" style={{background: 'transparent', border: '1px solid var(--accent-purple)'}}>
+            <a href="https://github.com/ANIQUESK" target="_blank" rel="noreferrer" className="btn-primary" style={{background: 'transparent', border: '1px solid var(--accent-purple)'}}>
               GitHub
             </a>
           </div>
